@@ -1,0 +1,20 @@
+{
+  "packages": {
+    "3d": [
+      {
+        "version": "0.1.0",
+        "source": "https://raw.githubusercontent.com/spinny0/lml/main/packages/3d/0.1.0/3d-0.1.0.zip",
+        "sha256": "142ca290fda09885296561cd32d3464939977a56641f3b79b3d0a90dcdb31dfb",
+        "entry": "init.fe"
+      }
+    ],
+    "greeter": [
+      {
+        "version": "0.1.0",
+        "source": "https://raw.githubusercontent.com/spinny0/lml/main/packages/greeter/0.1.0/greeter-0.1.0.zip",
+        "sha256": "639dad52abf4ae7168f50ebba90ddbee16ef9872a77d314f0366067889afc14e",
+        "entry": "init.fe"
+      }
+    ]
+  }
+}

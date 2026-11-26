@@ -1,0 +1,5 @@
+local function hello(name: str)
+    return "Hello, " .. name .. "!"
+end
+
+return { hello = hello }
