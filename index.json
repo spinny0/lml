@@ -15,6 +15,14 @@
         "sha256": "639dad52abf4ae7168f50ebba90ddbee16ef9872a77d314f0366067889afc14e",
         "entry": "init.fe"
       }
+    ],
+    "testapp": [
+      {
+        "version": "0.1.0",
+        "source": "https://raw.githubusercontent.com/spinny0/lml/main/packages/testapp/0.1.0/testapp-0.1.0.zip",
+        "sha256": "a1cf009a3468b599c0dae65480613fb855a96bfc303456bfcbdb96227d72f880",
+        "entry": "init.fe"
+      }
     ]
   }
 }
