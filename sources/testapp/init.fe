@@ -1,0 +1,5 @@
+local function bye(name: str)
+    return "bye, " .. name .. "!"
+end
+
+return { bye = bye }
